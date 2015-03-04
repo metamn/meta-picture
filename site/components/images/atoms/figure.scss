@@ -1,14 +1,16 @@
 @mixin figure {
-  figure {
-    margin: 0;
-    
-    img {
-      max-width: 100%;
-      height: auto;
-    }
+  margin: 0;
 
-    figcaption {
-      display: none;
-    }
+  img {
+    max-width: 100%;
+    height: auto;
   }
+
+  figcaption {
+    display: none;
+  }
+}
+
+figure {
+  @include figure;
 }
