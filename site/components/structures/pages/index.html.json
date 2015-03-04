@@ -2,6 +2,22 @@
   "index": {
     "images": [
       {
+        "title": "Placeholder 16:9",
+        "name": "placeholder-16-9",
+        "responsive" : [
+          {
+            "breakpoint": "mobile",
+            "title": "Placeholder 2:3",
+            "name": "placeholder-2-3"
+          },
+          {
+            "breakpoint": "tablet",
+            "title": "Placeholder 1:1",
+            "name": "placeholder-1-1"
+          }
+        ]
+      },
+      {
         "title": "Placeholder 1:1",
         "name": "placeholder-1-1"
       },
@@ -20,10 +36,6 @@
       {
         "title": "Placeholder 3:2",
         "name": "placeholder-3-2"
-      },
-      {
-        "title": "Placeholder 16:9",
-        "name": "placeholder-16-9"
       }
     ]
   }
