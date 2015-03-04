@@ -2,16 +2,16 @@
   "index": {
     "images": [
       {
+        "title": "Placeholder 1:1",
+        "name": "placeholder-1-1"
+      },
+      {
         "title": "Placeholder 2:3",
         "name": "placeholder-2-3"
       },
       {
         "title": "Placeholder 3:4",
         "name": "placeholder-3-4"
-      },
-      {
-        "title": "Placeholder 1:1",
-        "name": "placeholder-1-1"
       },
       {
         "title": "Placeholder 4:3",
